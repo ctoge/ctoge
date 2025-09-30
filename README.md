@@ -5,7 +5,7 @@ Hi! My name is Christian Ona [He/Him]. I am a PhD student in the [Stajich Lab](h
 
 I did my undergraduate in Genetics at the University of Georgia, where I studied [fungal pathogens in peanuts](https://fieldreport.caes.uga.edu/features/fungal-threats/) as part of my thesis.
 
-I am interested in extreme and pathogenic fungi of all varieties. In my free time, I enjoy building Gunpla and doing martial arts.
+I am interested in extreme and pathogenic fungi of all varieties. In my free time, I enjoy building Gunpla, doing martial arts, and looking at seals.
 
 
 ## Fun Stuff :D
