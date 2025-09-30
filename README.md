@@ -1,9 +1,9 @@
 # Christian Ona :3
 ## PhD Student in Plant Pathology at UC Riverside
 
-Hi! My name is Christian Ona [He/Him]. I am a PhD student in the [Stajich Lab][https://lab.stajich.org/], focusing on extremeophilic and extremotolerant fungi such as *Rhodotorula* as a part of the [ExFAB][https://exfab.engineering.ucsb.edu/] biofoundry program. 
+Hi! My name is Christian Ona [He/Him]. I am a PhD student in the [Stajich Lab](https://lab.stajich.org/), focusing on extremeophilic and extremotolerant fungi such as *Rhodotorula* as a part of the [ExFAB](https://exfab.engineering.ucsb.edu/) biofoundry program. 
 
-I did my undergraduate in Genetics at the University of Georgia, where I studied [fungal pathogens in peanuts][https://fieldreport.caes.uga.edu/features/fungal-threats/] as part of my thesis.
+I did my undergraduate in Genetics at the University of Georgia, where I studied [fungal pathogens in peanuts](https://fieldreport.caes.uga.edu/features/fungal-threats/) as part of my thesis.
 
 I am interested in extreme and pathogenic fungi of all varieties.
 
